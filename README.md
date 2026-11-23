@@ -10,6 +10,9 @@ A GenAI-powered journaling application designed for students. Users can write da
 * Local journal history with delete option
 * Safe fallback response if the API key is missing or the API is unavailable
 
+<img width="795" height="747" alt="Screenshot 2026-11-23 234823" src="https://github.com/user-attachments/assets/e101cb3f-287d-43b3-9e79-f5dc290bd3a3" />
+
+
 # Technology Stack
 * **Programming Language:** Python
 * **User Interface:** Streamlit
@@ -44,6 +47,9 @@ A GenAI-powered journaling application designed for students. Users can write da
 * `requirements.txt` – Project dependencies
 * `.env.example` – Example environment configuration
 
+<img width="1920" height="1140" alt="Screenshot 2026-11-23 235759" src="https://github.com/user-attachments/assets/13197725-41ca-47be-84df-cf2f28efd9ee" />
+
+
 # Problem Statement
 *PS 57 – Mental Wellness Journal Companion*
 
@@ -56,9 +62,14 @@ Mood labels and distress flags are approximate keyword-based checks and may miss
 
 The application displays India-specific support contacts (**Tele-MANAS: 14416**; *Emergency: 112*) when selected distress-related terms are detected. In an immediate emergency, contact local emergency services.
 
+<img width="1920" height="1140" alt="Screenshot 2026-11-23 235851" src="https://github.com/user-attachments/assets/1ef4d311-f4b2-4792-b1f0-0cd832fad877" />
+
+
 # Developer
-Name: Harsh Patel
+Name: Harsh Patel 
+
 Roll No.:57
+
 Class:LY CORE 4
 
 <img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/9a880d64-082a-4d48-a186-92b1cd8ac241" />
