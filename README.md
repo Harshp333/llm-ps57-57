@@ -10,7 +10,7 @@ A GenAI-powered journaling application designed for students. Users can write da
 * Local journal history with delete option
 * Safe fallback response if the API key is missing or the API is unavailable
 
-<img width="795" height="747" alt="Screenshot 2026-11-23 234823" src="https://github.com/user-attachments/assets/e101cb3f-287d-43b3-9e79-f5dc290bd3a3" />
+<img width="1920" height="1140" alt="Screenshot 2026-11-23 235658" src="https://github.com/user-attachments/assets/284903c8-151c-49b8-b553-302576cc7c28" />
 
 
 # Technology Stack
